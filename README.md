@@ -22,4 +22,5 @@ Requirements
 * Some jumper cables
 
 Please see attached image with connection diagram. 
+(this should be added shortly)
 
